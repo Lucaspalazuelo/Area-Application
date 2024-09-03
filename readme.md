@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-The goal of this project is to develop an automation platform similar to IFTTT or Zapier, where users can create automated workflows (referred to as "AREA" in this project) by interconnecting different services. The project is divided into three main components:
+`Area` is a Epitech third year project in React Native Typescript. The goal of this project is to develop an automation platform similar to IFTTT or Zapier, where users can create automated workflows (referred to as "AREA" in this project) by interconnecting different services. The project is divided into three main components:
 
 1. **Application Server**: This is the core of the project, implementing all business logic and exposing a REST API for the clients.
 2. **Web Client**: A user interface accessible via a web browser to interact with the application server.
