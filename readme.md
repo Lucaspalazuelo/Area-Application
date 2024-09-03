@@ -2,7 +2,7 @@
 
 ## Project Status
 
-**Note:** The code available in this repository is for the mobile client. The application is not completed.
+**Note:** The code available in this repository is for the mobile application. The application is not completed.
 
 ## Project Overview
 
